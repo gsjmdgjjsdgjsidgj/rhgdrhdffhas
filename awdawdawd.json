@@ -1,12 +1,5 @@
 {
-  "blacklist": [],
-  "OXY-4KJ-Q2P-M8V-R1N": {
-    "user_id": 852656080004972565,
-    "resets": [
-      {
-        "date": "2025-09-02 14:30:01",
-        "reason": "new pc"
-      }
-    ]
-  }
+  "blacklist": [
+    852656080004972565
+  ]
 }
