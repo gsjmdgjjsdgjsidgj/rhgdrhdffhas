@@ -1,7 +1,13 @@
 {
-  "blacklist": [],
-  "OXY-4KJ-Q2P-M8V-R1N": {
-    "user_id": 852656080004972565,
-    "resets": []
+  "blacklist": [
+    852656080004972565
+  ],
+  "blacklist_records": {
+    "852656080004972565": [
+      {
+        "date": "2025-09-02 14:55:03",
+        "reason": "poop"
+      }
+    ]
   }
 }
