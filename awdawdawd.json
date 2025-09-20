@@ -118,5 +118,9 @@
         "reason": "bug"
       }
     ]
+  },
+  "OXY-LUN-HDS-Z0N-SBV": {
+    "user_id": 1212575281420828724,
+    "resets": []
   }
 }
